@@ -1,20 +1,18 @@
-title: Strata by HTML5 UP
+title: code.jefflaplante.com
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
-copyright: Untitled
+  code.jefflaplante.com
+copyright: 2017 Jeff LaPlante
 sass:
   sass_dir: assets/sass
 url: http://code.jefflaplante.com
 disqus_shortname: stratajekylldemo
 facebook_username:
-twitter_username: "#"
+twitter_username: "@jefflaplante"
 linkedin_username: "#"
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "#"
+github_username:  "jefflaplante"
 feed_icon: rss
 email: "#"
 gems: [jekyll-paginate]
